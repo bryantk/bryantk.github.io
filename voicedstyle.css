@@ -1,0 +1,157 @@
+.body {
+    margin:0;
+    padding:0;
+}
+
+.rightlogo {
+    
+    border:3px solid black;
+    background-color:white;
+}
+
+.righttext {
+    margin:auto;
+    width: 600px;
+    background-color:white;
+    border: 3px solid black;
+    padding: 0 10px;
+    font-family: "Times New Roman", serif;
+
+}
+
+.downward {
+    margin-top:25px;
+}
+
+
+.rightimagethief {
+    float:right;
+}
+
+.buttonspace {
+    margin:auto;
+}
+
+.rightimage {
+    margin:auto;
+    margin-right:50px;
+}
+
+.titlefont {
+    margin:auto;
+    background-color:white;
+    color:black;
+    height:122px;
+    width: 750px;
+    font-size:80pt;
+    text-align:center;
+	padding-top:10px;
+
+}
+
+.maintitle {
+    margin: auto;
+    background-color:white;
+    height:132px;
+    width: 132px;
+    border: 3px solid black;
+    font-size:54pt;
+    
+}
+
+.buttonHome {
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    width:110px;
+    height:30px;
+    margin:12px;
+    text-align:center;
+    font-style:bold;
+
+}
+
+.buttonGame {
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    width:110px;
+    height:30px;
+    margin:12px;
+    text-align:center;
+    font-style:bold;
+
+}
+
+.buttonVoiced {
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    width:110px;
+    height:30px;
+    margin:12px;
+    text-align:center;
+    font-style:bold;
+
+}
+
+.buttonCreators {
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    width:110px;
+    height:30px;
+    margin:12px;
+    text-align:center;
+    font-style:bold;
+
+}
+.buttonDonate {
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    width:110px;
+    height:30px;
+    margin:12px;
+    text-align:center;
+    font-style:bold;
+
+}
+
+.buttonHome:hover {
+	background-color: black; 
+	color:white;
+	
+}
+.buttonGame:hover {
+	background-color: black; 
+	color:white;
+	
+}
+
+.buttonVoiced:hover {
+	background-color: black; 
+	color:white;
+	
+}
+
+.buttonCreators:hover {
+	background-color: black; 
+	color:white;
+	
+}
+
+.buttonDonate:hover {
+	background-color: black; 
+	color:white;
+	
+}
+
+.white-text {
+  color: white;
+}
+
+.button-row {
+  margin-left: 30%;
+  margin-right: 30%;
+}
